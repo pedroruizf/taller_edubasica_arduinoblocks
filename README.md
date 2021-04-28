@@ -1,7 +1,6 @@
 # Taller de Edubásica con Arduinoblocks
 
-|   	|   	|   	|
-|![Edubasica](images/edubasica.jpg)|![Edubasica](images/arduinoblockslogo.png)	|![Edubasica](images/logo_club_100.png)	|
+![Edubasica](images/edubasica.jpg)![Edubasica](images/arduinoblockslogo.png)	![Edubasica](images/logo_club_100.png)	
 
 ## Enlaces
 
@@ -13,6 +12,6 @@
 * [Potenciómetro y microservo](http://www.arduinoblocks.com/web/project/486532)
 * [LDR y microservo](http://www.arduinoblocks.com/web/project/483939)
 * [Juego de reflejos](http://www.arduinoblocks.com/web/project/486592)
-* [Caja y barrera para microservo](https://github.com/pedroruizf/diseno_3d/tree/master/disenos/microservo)
+* [Diseño de caja y barrera para microservo](https://github.com/pedroruizf/diseno_3d/tree/master/disenos/microservo)
 
 ![Edubasica](images/edubasica_foto.jpg)
