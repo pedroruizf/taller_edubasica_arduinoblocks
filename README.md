@@ -15,4 +15,6 @@
 * [Control de motor DC](http://www.arduinoblocks.com/web/project/494527)
 * [Diseño de caja y barrera para microservo](https://github.com/pedroruizf/diseno_3d/tree/master/disenos/microservo)
 
+![Edubasica](images/edubasicaL293.png)
+
 ![Edubasica](images/edubasica_foto.jpg)
