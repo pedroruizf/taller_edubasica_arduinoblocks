@@ -12,6 +12,7 @@
 * [Potenciómetro y microservo](http://www.arduinoblocks.com/web/project/486532)
 * [LDR y microservo](http://www.arduinoblocks.com/web/project/483939)
 * [Juego de reflejos](http://www.arduinoblocks.com/web/project/486592)
+* [Control de motor DC](http://www.arduinoblocks.com/web/project/494527)
 * [Diseño de caja y barrera para microservo](https://github.com/pedroruizf/diseno_3d/tree/master/disenos/microservo)
 
 ![Edubasica](images/edubasica_foto.jpg)
